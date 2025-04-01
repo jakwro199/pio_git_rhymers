@@ -2,6 +2,7 @@ package edu.kis.vh.nursery;
 
 public class defaultCountingOutRhymer {
 // wykonanie punktu 6
+// wykonanie punktu 7
     public static final int EMPTY_INDEX = -1;
     public static final int MAX_SIZE = 12;
     private int[] NUMBERS = new int[MAX_SIZE];
