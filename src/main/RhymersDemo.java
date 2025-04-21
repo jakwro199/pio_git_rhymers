@@ -35,3 +35,5 @@ class RhymersDemo {
             ((HanoiRhymer) rhymers[3]).reportRejected());
     }
 }
+//Testy jednostkowe działają poprawnie – brak potrzeby poprawek (Punkt 15)
+
