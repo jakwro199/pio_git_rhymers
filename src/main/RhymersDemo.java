@@ -30,10 +30,10 @@ class RhymersDemo {
                 System.out.print(rhymers[i].countOut() + " ");
             System.out.println();
         }
-
+     // Dummy commit for PR submission
         System.out.println("total rejected is " +
             ((HanoiRhymer) rhymers[3]).reportRejected());
     }
 }
 //Testy jednostkowe działają poprawnie – brak potrzeby poprawek (Punkt 15)
-
+//Dummy commit for PR submission
